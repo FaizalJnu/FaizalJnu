@@ -20,7 +20,8 @@
 - 🌱 I’m currently learning **Artificial Intelligence A-Z™** 
 - 🤝 I’m looking for help with [Predictive Modeling](https://github.com/FaizalJnu/PredictiveModeling) 
 - 💬 Ask me about **AI, Tech News and Stocks** 
-- 📫 How to reach me **faizaljnu@gmail.com** - ⚡ Fun fact **I think I'm smart?**
+- 📫 How to reach me **faizaljnu@gmail.com**
+- ⚡ Fun fact **I think I'm smart?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
