@@ -2,13 +2,6 @@
 <h3 align="center">An AI/ML and Data Science Student</h3>
 
 <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=faizaljnu&label=Profile%20views&color=0e75b6&style=flat"
-    alt="faizaljnu"
-  />
-</p>
-
-<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=faizaljnu"
@@ -16,12 +9,12 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [Reinforcement Learning](https://github.com/FaizalJnu/ReinforcementLearning)
+- 🔭 I’m currently working on Doom AI based game
 - 🌱 I’m currently learning **Artificial Intelligence A-Z™** 
-- 🤝 I’m looking for help with [Predictive Modeling](https://github.com/FaizalJnu/PredictiveModeling) 
+- 🤝 I’m looking for help with Time Series Forecasting and some tough Statistical Mathematics Concepts.
 - 💬 Ask me about **AI, Tech News and Stocks** 
 - 📫 How to reach me **faizaljnu@gmail.com**
-- ⚡ Fun fact **I think I'm smart?**
+- ⚡ Fun fact **I am a terrific Singer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
