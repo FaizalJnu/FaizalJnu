@@ -9,7 +9,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on Doom AI based game
+- 🔭 I’m currently working on A3C
 - 🌱 I’m currently learning **Artificial Intelligence A-Z™** 
 - 🤝 I’m looking for help with Time Series Forecasting and some tough Statistical Mathematics Concepts.
 - 💬 Ask me about **AI, Tech News and Stocks** 
