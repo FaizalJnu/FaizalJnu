@@ -14,7 +14,12 @@
 - 🤝 I’m looking for help with understanding Genes and its study through LLMs.
 - 💬 Ask me about **AI, Tech News and Stocks** 
 - 📫 How to reach me **faizaljnu@gmail.com**
-- ⚡ Fun fact **I am a terrific Singer!**
+- ⚡ Fun fact **I have an alterego: https://github.com/coderakbar**
+
+##Featured projects:
+1. Self-Driving-Car(https://github.com/FaizalJnu/Self-Driving-Car)
+2. Lunar-Landing-AI(https://github.com/FaizalJnu/Landing-AI)
+3. RunInfinity(https://github.com/Run-Infinity/RunInfinity) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
