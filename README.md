@@ -9,9 +9,9 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on A3C
-- 🌱 I’m currently learning **Artificial Intelligence A-Z™** 
-- 🤝 I’m looking for help with Time Series Forecasting and some tough Statistical Mathematics Concepts.
+- 🔭 I’m currently working on LLMs and Application Dev.
+- 🌱 I’m currently trying to expand my Context Limit.
+- 🤝 I’m looking for help with understanding Genes and its study through LLMs.
 - 💬 Ask me about **AI, Tech News and Stocks** 
 - 📫 How to reach me **faizaljnu@gmail.com**
 - ⚡ Fun fact **I am a terrific Singer!**
