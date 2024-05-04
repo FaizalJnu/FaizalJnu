@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizal Rahman</h1>
-<h3 align="center">An AI/ML and Data Science Student</h3>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=faizaljnu"
-      alt="faizaljnu"
-  /></a>
-</p>
+<h3 align="center">A Computer Science and Engineering Student</h3>
 
 - 🔭 I’m currently working on LLMs and Application Dev.
 - 🌱 I’m currently trying to expand my Context Limit.
