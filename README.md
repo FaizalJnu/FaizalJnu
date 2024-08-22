@@ -8,7 +8,7 @@
 - 📫 How to reach me **faizaljnu@gmail.com**
 - ⚡ Fun fact **I have an alterego: https://github.com/coderakbar**
 
-##Featured projects:
+## Featured projects:
 1. Self-Driving-Car(https://github.com/FaizalJnu/Self-Driving-Car)
 2. Lunar-Landing-AI(https://github.com/FaizalJnu/Landing-AI)
 3. RunInfinity(https://github.com/Run-Infinity/RunInfinity) 
