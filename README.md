@@ -61,11 +61,7 @@ I am a Master's student at **NYU** specializing in **Machine Learning Systems** 
 | :--- | :--- | :--- |
 | **[Edge-AI Facial Recognition](https://github.com/FaizalJnu)** | `C++` `DeepStream` `AWS` | **30+ FPS** pipeline on Jetson Nano using custom GStreamer plugins and Zero-Copy memory transfer. |
 | **[Autonomous Navigation RL](https://github.com/FaizalJnu/ADPS)** | `PyTorch` `PPO` `CUDA` | Deep Reinforcement Learning agent optimized with vectorized environments for robot navigation. |
-| **[Cloud-Native Automation](https://github.com/FaizalJnu)** | `AWS Lambda` `Svelte` `Python` | Serverless microservices to automate university data workflows, reducing admin overhead by 90%. |
+| **[Cloud-Native Automation]([https://github.com/FaizalJnu](https://gitlab.com/fr2471/tsc-migration-nyu))** | `AWS Lambda` `Svelte` `Python` | Serverless microservices to automate university data workflows, reducing admin overhead by 90%. |
 | **[GSoC 2024 Contribution](https://faizaljnu.github.io/GSoC24-FinalReport/)** | `Python` `Open Source` | Modernized genomic data pipelines for the National Resource for Network Biology (NRNB). |
-
----
-
-### 📊 **GitHub Stats**
 
 
