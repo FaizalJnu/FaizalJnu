@@ -68,10 +68,4 @@ I am a Master's student at **NYU** specializing in **Machine Learning Systems** 
 
 ### 📊 **GitHub Stats**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizaljnu&show_icons=true&locale=en&theme=radical&hide_border=true" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizaljnu&theme=radical&hide_border=true" alt="streak" width="48%" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizaljnu&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="languages" />
-</p>
+
