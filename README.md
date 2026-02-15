@@ -1,210 +1,77 @@
-<h1 align="center">Hi 👋, I'm Faizal Rahman</h1>
-<h3 align="center">A Computer Science and Engineering Student</h3>
+<h1 align="center">Hi there, I'm Faizal Rahman 👋</h1>
+<h3 align="center">MSCS Graduate Student @ NYU Tandon | Machine Learning & Systems Engineer</h3>
 
-- 🔭 I’m currently working on LLMs and Application Dev.
-- 🌱 I’m currently trying to expand my Context Limit.
-- 🤝 I’m looking for help with understanding Genes and its study through LLMs.
-- 💬 Ask me about **AI, Tech News and Stocks** 
-- 📫 How to reach me **faizaljnu@gmail.com**
-- ⚡ Fun fact **I have an alterego: https://github.com/coderakbar**
+<p align="center">
+  <em>Building high-performance AI pipelines at the edge and in the cloud.</em>
+</p>
 
-## Featured projects:
-1. Self-Driving-Car(https://github.com/FaizalJnu/Self-Driving-Car)
-2. Lunar-Landing-AI(https://github.com/FaizalJnu/Landing-AI)
-3. RunInfinity(https://github.com/Run-Infinity/RunInfinity) 
+<p align="center">
+  <a href="https://linkedin.com/in/faizal-rahman" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:faizaljnu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://faizaljnu.github.io/GSoC24-FinalReport/"><img src="https://img.shields.io/badge/GSoC_2024-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GSoC" /></a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🚀 **About Me**
+
+I am a Master's student at **NYU** specializing in **Machine Learning Systems** and **Edge AI**. My engineering philosophy focuses on bridging the gap between research models and production deployment. I build systems that are **latency-sensitive**, **memory-safe**, and **scalable**.
+
+- 🔭 **Currently working on:** Real-time video analytics using **NVIDIA DeepStream** & **C++**.
+- 💼 **Experience:** IT Technology Intern @ NYU, ML Intern @ Novixpert, GSoC Contributor @ NRNB.
+- 🌱 **Learning:** Advanced CUDA optimization and Distributed Systems.
+- ⚡ **Core Stack:** C++, Python, PyTorch, AWS, Docker.
+
+---
+
+### 🛠 **Technical Stack**
+
+#### **High-Performance & Edge AI**
 <p align="left">
-  <a href="https://linkedin.com/in/faizal rahman" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="faizal rahman"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/westernjester" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="westernjester"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.codechef.com/users/coderakbar" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-      alt="coderakbar"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.leetcode.com/westernjester" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="westernjester"
-      height="30"
-      width="40"
-  /></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+#### **Cloud & Infrastructure**
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"
-      alt="ionic"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-      alt="pytorch"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-      alt="rust"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
-      alt="swift"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-      alt="unity"
-      width="40"
-      height="40"
-    />
-  </a>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=faizaljnu&show_icons=true&locale=en&layout=compact"
-    alt="faizaljnu"
-  />
+#### **Languages & Data**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
+
+---
+
+### 📂 **Featured Engineering Projects**
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[Edge-AI Facial Recognition](https://github.com/FaizalJnu)** | `C++` `DeepStream` `AWS` | **30+ FPS** pipeline on Jetson Nano using custom GStreamer plugins and Zero-Copy memory transfer. |
+| **[Autonomous Navigation RL](https://github.com/FaizalJnu/ADPS)** | `PyTorch` `PPO` `CUDA` | Deep Reinforcement Learning agent optimized with vectorized environments for robot navigation. |
+| **[Cloud-Native Automation](https://github.com/FaizalJnu)** | `AWS Lambda` `Svelte` `Python` | Serverless microservices to automate university data workflows, reducing admin overhead by 90%. |
+| **[GSoC 2024 Contribution](https://faizaljnu.github.io/GSoC24-FinalReport/)** | `Python` `Open Source` | Modernized genomic data pipelines for the National Resource for Network Biology (NRNB). |
+
+---
+
+### 📊 **GitHub Stats**
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=faizaljnu"
-      alt="faizaljnu"
-  /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=faizaljnu&show_icons=true&locale=en&theme=radical&hide_border=true" alt="stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizaljnu&theme=radical&hide_border=true" alt="streak" width="48%" />
 </p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=faizaljnu&"
-    alt="faizaljnu"
-  />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizaljnu&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="languages" />
 </p>
